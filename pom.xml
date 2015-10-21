@@ -64,7 +64,7 @@
         <!-- Plugin configuration. There are many available options, see gwt-maven-plugin 
           documentation at codehaus.org -->
         <configuration>
-          <runTarget>Standart.html</runTarget>
+          <runTarget>GWT_Memory.html</runTarget>
           <hostedWebapp>${webappDirectory}</hostedWebapp>
           <i18nMessagesBundle>de.edca.memory.client.Messages</i18nMessagesBundle>
         </configuration>
